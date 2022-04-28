@@ -6,6 +6,7 @@ It provides request results with combine.
 
 - [Requirements](#requirements)
 - [Installation](#installation)
+- [Licence](#licence)
 
 ## Requirements
 
@@ -24,3 +25,6 @@ dependencies: [
     .package(url: "https://github.com/squidyu812/NetworkKit.git", .upToNextMajor(from: "1.0.0"))
 ]
 ```
+
+## Licence
+NetworkKit is available under the MIT license. See the [MIT License](LICENSE) for more info.
